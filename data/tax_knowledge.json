@@ -1,0 +1,73 @@
+{
+  "version": "2026-09",
+  "base_indicators": {
+    "BHM": 412000,
+    "MHEKM": 1360000,
+    "source": "O'zbekiston Respublikasi qonunchiligi"
+  },
+  "topics": [
+    {
+      "keywords": ["yatt", "yakka tartibdagi tadbirkor", "1%", "1 foiz", "qat'iy", "daromad solig'i"],
+      "title": "YaTTlar uchun 2026-yilgi soliq tartibi",
+      "summary": "Yillik aylanmasi 1 milliard so'mgacha bo'lgan YaTTlar uchun 1% aylanmadan olinadigan soliq stavkasi joriy etildi. Qat'iy belgilangan daromad solig'i bekor qilindi.",
+      "legal_basis": "PQ-247-son qaror (12.08.2025), Soliq kodeksi 465-moddasi",
+      "details": "1) Yillik tushum 1 mlrd so'mgacha bo'lsa: 1% aylanma solig'i to'lanadi.\n2) 1 mlrd dan 5 mlrd so'mgacha: 4% aylanma solig'i to'lanadi (QQSga o'tish majburiy emas).\n3) YaTT o'zi uchun har oyda kamida 1 BHM (412 000 so'm) ijtimoiy soliq to'laydi.\n4) Yollangan xodimlari uchun amaldagi tartibda ijtimoiy soliq va JShDS to'lanadi."
+    },
+    {
+      "keywords": ["o'zini o'zi band", "samozanyatiy", "100 mln", "1 foiz"],
+      "title": "O'zini o'zi band qilgan shaxslar uchun 2026-yilgi soliqlar",
+      "summary": "100 million so'mgacha aylanmadan ozod bo'lish imtiyozi bekor qilindi. Yillik aylanmasi 1 milliard so'mgacha bo'lganlar uchun 1% aylanma solig'i to'lanadi.",
+      "legal_basis": "PQ-247-son qaror (12.08.2025)",
+      "details": "O'zini o'zi band qilgan shaxslar tushumi 1 mlrd so'mgacha bo'lganda 1% aylanma solig'i to'laydi. Pensiya va staj hisoblanishi uchun ixtiyoriy ravishda yiliga 1 BHM miqdorida ijtimoiy soliq to'lash mumkin."
+    },
+    {
+      "keywords": ["5 mlrd", "5 milliard", "limit", "chegara", "qqsga o'tish", "kichik biznes"],
+      "title": "Umumiy soliq rejimiga (QQS) o'tish chegarasining 5 mlrd so'mga oshirilishi",
+      "summary": "2026-yil 1-iyundan boshlab kichik biznes subyektlarini umumiy soliq rejimiga (QQS 12% va foyda solig'i) o'tkazish chegarasi 1 milliard so'mdan 5 milliard so'mga oshirildi.",
+      "legal_basis": "Prezident qarori (2026-yil may-iyun), Soliq kodeksi",
+      "details": "Tadbirkor yillik tushumi 5 mlrd so'mga yetguncha aylanmadan olinadigan soliqda (4%) qolishi mumkin. 1% lik imtiyozli stavka faqat 1 mlrdgacha bo'lgan qismiga taalluqlidir."
+    },
+    {
+      "keywords": ["qqs", "qo'shilgan qiymat", "12%", "stavka"],
+      "title": "Qo'shilgan qiymat solig'i (QQS) stavkalari va imtiyozlar",
+      "summary": "Standart QQS stavkasi 12% darajasida saqlab qolindi. Qishloq xo'jaligi uchun 0% stavka belgilandi, zargarlik buyumlari uchun imtiyoz bekor qilindi.",
+      "legal_basis": "O'RQ-1108-son Qonun (25.12.2025), Soliq kodeksi 258-moddasi",
+      "details": "1) Asosiy stavka: 12%.\n2) Qishloq xo'jaligi mahsulotlarini realizatsiya qilishda: 0%.\n3) Zargarlik va qimmatbaho buyumlar uchun QQS imtiyozi bekor qilindi.\n4) Umumiy ovqatlanish va chakana savdo uchun muqobil 6% soddalashtirilgan QQS varianti mavjud."
+    },
+    {
+      "keywords": ["foyda solig'i", "15%", "avans", "20 mlrd", "amortizatsiya"],
+      "title": "Foyda solig'i qoidalari va o'zgarishlar",
+      "summary": "Bazaviy foyda solig'i 15%. Majburiy avans to'lovlari chegarasi 20 mlrd so'mga ko'tarildi. Individual imtiyozlar faqat 3 yilgacha tezlashtirilgan amortizatsiya bilan cheklandi.",
+      "legal_basis": "O'RQ-1108-son Qonun (25.12.2025)",
+      "details": "1) Standart stavka: 15%, banklar va uyali aloqa uchun: 20%.\n2) Avans to'lovlari: Yillik tushum 20 mlrd so'mdan oshganda oylik to'lanadi.\n3) Aylanma solig'idan umumiy rejimga o'tgan korxonalarga 1 yil muddatga foyda solig'idan ozod bo'lish imtiyozi beriladi."
+    },
+    {
+      "keywords": ["islom", "islomiy moliya", "sukuk", "ijara", "musharaka"],
+      "title": "Islomiy moliya operatsiyalarini soliqqa tortish",
+      "summary": "Soliq kodeksiga yangi 71-2-bob kiritildi. Sukuk va islomiy moliya operatsiyalari QQSdan ozod, jismoniy shaxslarning islomiy omonat daromadlari JShDSdan ozod.",
+      "legal_basis": "O'RQ-1126-son Qonun (27.03.2026), Soliq kodeksi 480-3 — 480-6-moddalari",
+      "details": "1) QQS: Sukuk va islomiy moliya operatsiyalari QQSdan ozod.\n2) JShDS: Islomiy bank va mikromoliya tashkilotlari orqali olingan sheriklik daromadlari soliqqa tortilmaydi.\n3) Mol-mulk va yer solig'i: Islomiy ijara (lizing)da soliq to'lovchi bank yoki MMT hisoblanadi."
+    },
+    {
+      "keywords": ["debitor", "debitorlik", "undirish", "qarzdorlik", "121-1"],
+      "title": "Debitorlik qarzi hisobidan soliq qarzini undirish",
+      "summary": "Soliq to'lovchining soliq qarzdorligini uning rasmiy debitorlari hisobidan to'g'ridan-to'g'ri undirish tartibi mustahkamlandi.",
+      "legal_basis": "Soliq kodeksining 121-1-moddasi, O'RQ-1108-son Qonun",
+      "details": "Soliq qarzi mavjud bo'lgan korxona yoki YaTTning soliq qarzi soliq organi tomonidan uning debitorlari hisobidan so'zsiz undirilishi mumkin."
+    },
+    {
+      "keywords": ["aksiz", "shakar", "energetik", "chips", "alkogol", "tamaki"],
+      "title": "Aksiz solig'idagi 2026-yilgi yangiliklar",
+      "summary": "JST talablari asosida mahalliy va import alkogol/tamaki stavkalari tenglashtirildi. Shakarli ichimliklar va kartoshka chipslariga aksiz joriy etildi.",
+      "legal_basis": "O'RQ-1108-son Qonun (25.12.2025)",
+      "details": "1) Shakarli gazlangan ichimliklar: shakar miqdoriga qarab litriga 500, 515 va 535 so'm.\n2) Energetik ichimliklar: 2 150 so'm/litr.\n3) Kartoshka chipslari: 1 kg uchun 15 000 so'm."
+    },
+    {
+      "keywords": ["muddat", "taqvim", "hisobot", "ijtimoiy soliq qachon", "qqs qachon"],
+      "title": "Asosiy soliq to'lovlari va hisobot taqvimi",
+      "summary": "JShDS va ijtimoiy soliq — keyingi oyning 15-sanasigacha. Aylanmadan olinadigan soliq va QQS — har oy/chorak yakunidan keyingi oyning 20-sanasigacha.",
+      "legal_basis": "Soliq kodeksi ma'muriyatchilik normalari",
+      "details": "1) Oylik JShDS va ijtimoiy soliq: har oyning 15-sanasigacha.\n2) YaTT o'zi uchun ijtimoiy soliq: har oyning 15-sanasigacha.\n3) QQS va aylanmadan soliq: hisobot davridan keyingi oyning 20-sanasigacha.\n4) Mol-mulk va yer solig'i: jismoniy shaxslar uchun 15-aprel va 15-oktabrgacha (teng ulushlarda)."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+
+# --- added: repo hygiene ---
+# --- secrets ---
+.env
+.env.*
+!.env.example
+!.env.*.example
+!.env.sample
+# --- python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+# --- node ---
+node_modules/
+.next/
+out/
+dist/
+dist-types/
+build/
+*.tsbuildinfo
+# --- godot / android ---
+.godot/
+local.properties
+.gradle/
+*.apk
+*.aab
+# --- runtime data ---
+logs/
+*.log
+backups/
+data/*.db
+data/*.db-*
+database/*.db
+*.sqlite
+*.sqlite3
+*.pkl
+# --- os ---
+.DS_Store
+Thumbs.db
